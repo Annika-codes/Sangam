@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=distributed-kv-store&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Raft-backed%2C%20sharded%20key-value%20store%20built%20from%20scratch&descAlignY=58&descSize=18&descColor=d0e6f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SANGAM a distributed-kv-store&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Raft-backed%2C%20sharded%20key-value%20store%20built%20from%20scratch&descAlignY=58&descSize=18&descColor=d0e6f7"/>
 
 <br>
 
