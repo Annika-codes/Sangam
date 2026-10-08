@@ -1,0 +1,6 @@
+pytest>=7.4
+pytest-asyncio>=0.21
+
+# Added when Step 1d (gRPC server) is wired in:
+# grpcio>=1.60
+# grpcio-tools>=1.60
